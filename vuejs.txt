@@ -12,4 +12,10 @@ https://youtu.be/5LYrN_cAJoA?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa
 https://velog.io/@chaerin00/Vue-CDN%EC%9C%BC%EB%A1%9C-%EC%84%A4%EC%B9%98-%EC%8B%9C-Vue-is-not-a-constructor-%EC%98%A4%EB%A5%98
 
 
-2. Data & Methods
+3. Data & Methods
+
+4. Vue JS 2 Tutorial #4 - Data Binding
+<a v-bind:href="website">The Net Ninja</a>
+<input type="text" v-bind:value="job" />
+<p v-html="websiteTag"></p>
+
